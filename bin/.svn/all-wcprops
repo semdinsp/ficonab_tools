@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn2/rails/!svn/ver/151/ficonab_tools/bin
+END
+ficonab_test_configuration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn2/rails/!svn/ver/168/ficonab_tools/bin/ficonab_test_configuration.rb
+END
+ficonab_config_cure_smsc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn2/rails/!svn/ver/168/ficonab_tools/bin/ficonab_config_cure_smsc.rb
+END
+weekly_stomp_routines.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn2/rails/!svn/ver/151/ficonab_tools/bin/weekly_stomp_routines.rb
+END
+daily_stomp_routines.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn2/rails/!svn/ver/213/ficonab_tools/bin/daily_stomp_routines.rb
+END
+internal_sms_load_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn2/rails/!svn/ver/168/ficonab_tools/bin/internal_sms_load_test.rb
+END
